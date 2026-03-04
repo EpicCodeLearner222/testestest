@@ -14,3 +14,7 @@ Here are some images of chats i had with chatgpt.
 <img width="1244" height="380" alt="image" src="https://github.com/user-attachments/assets/d5cf01a3-6af9-448c-83d9-8065fb84db0a" />
 <img width="1244" height="380" alt="image" src="https://github.com/user-attachments/assets/af18084d-7ccc-42ce-8bea-6ea42828aeb6" />
 <img width="1244" height="380" alt="image" src="https://github.com/user-attachments/assets/6c2844c1-9122-468a-b334-35ad55b2a88d" />
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d6d53c1a-4205-4a22-a9bc-7f766cad66ef" />
+
+[Screen recording 2026-03-04 9.48.51 AM.webm](https://github.com/user-attachments/assets/bc994c13-3e44-44dd-9098-eab44121ac59)
+
